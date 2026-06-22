@@ -5,7 +5,7 @@
 // cryptographic operation runs in the CLIENT (`@saihm/mcp-server-pro` +
 // `@saihm/client-pro`); this server never holds a key and cannot read one byte
 // of your memory. That non-custodial, "blind operator" property is the whole
-// point of SAIHM — made concrete here in ~90 lines you can read end to end.
+// point of SAIHM — made concrete here in ~130 lines you can read end to end.
 //
 // It exists so you can run the demo fully offline with zero signup. To talk to
 // the real, hosted service instead, set SAIHM_ENDPOINT_URL=https://saihm.coti.global/mcp

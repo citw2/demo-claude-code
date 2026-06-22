@@ -54,7 +54,7 @@ For memory that follows you across machines and sessions — stored on the real,
       "env": {
         "SAIHM_ENDPOINT_URL": "https://saihm.coti.global/mcp",
         "SAIHM_AUTH_HEADER": "Bearer <your-onboard-JWT>",
-        "SAIHM_MASTER_SECRET_HEX": "<>= 64 hex chars, generated and held only by you>"
+        "SAIHM_MASTER_SECRET_HEX": "<at least 64 hex chars, generated and held only by you>"
       }
     }
   }
