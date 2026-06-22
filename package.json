@@ -1,0 +1,17 @@
+{
+  "name": "saihm-demo-claude-code",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "An MCP server that gives Claude Code, Cursor, and any MCP host persistent, client-side-encrypted SAIHM memory: remember, recall, forget.",
+  "bin": { "saihm-memory": "server.mjs" },
+  "scripts": { "start": "node server.mjs" },
+  "license": "Apache-2.0",
+  "author": "SAIHM",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@saihm/mcp-server-pro": "^0.1.0",
+    "@saihm/client-pro": "^0.1.1"
+  }
+}
