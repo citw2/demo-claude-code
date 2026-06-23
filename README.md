@@ -4,7 +4,7 @@
 
 A tiny [MCP](https://modelcontextprotocol.io) server that gives your AI coding assistant a persistent, client-side-encrypted memory it can `remember`, `recall`, and `forget` — backed by [SAIHM](https://saihm.coti.global). The memory is portable across models, non-custodial, and provably erasable.
 
-> ⭐ **Star this repo and share it** if it's useful — help every agent get portable, provable memory. [Share on X](https://x.com/intent/tweet?text=SAIHM%20memory%20inside%20Claude%20Code%20%26%20Cursor%20-%20persistent%2C%20encrypted%2C%20provably%20erasable%20memory%20for%20your%20AI%20assistant.&url=https%3A%2F%2Fgithub.com%2Fcitw2%2Fdemo-claude-code).
+> ⭐ **[Star SAIHM on GitHub](https://github.com/SAIHM-Admin/saihm-mcp)** and share it if it's useful — help every agent get portable, provable memory. [Share on X](https://x.com/intent/tweet?text=SAIHM%20memory%20inside%20Claude%20Code%20%26%20Cursor%20-%20persistent%2C%20encrypted%2C%20provably%20erasable%20memory%20for%20your%20AI%20assistant.&url=https%3A%2F%2Fgithub.com%2Fcitw2%2Fdemo-claude-code).
 
 ## What your assistant gets
 
