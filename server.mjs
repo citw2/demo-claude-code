@@ -4,7 +4,7 @@
 // status) that seal client-side via @saihm/mcp-server-pro; the endpoint only sees ciphertext.
 //
 // Modes:
-//   LIVE     (recommended)  set SAIHM_ENDPOINT_URL + SAIHM_AUTH_HEADER + SAIHM_MASTER_SECRET_HEX
+//   LIVE     (recommended)  set SAIHM_ENDPOINT_URL + SAIHM_MASTER_SECRET_HEX + SAIHM_TIER=FREE (free tier; run `npx -y @saihm/mcp-server-pro free-join` once first) OR SAIHM_AUTH_HEADER (paid Pro)
 //                           -> durable, hosted, blind memory (join: https://saihm.coti.global/join)
 //   SANDBOX  (default)      no SAIHM_ENDPOINT_URL -> a local, in-process blind endpoint; memory
 //                           lasts for the editor session. Great for trying it with zero signup.
